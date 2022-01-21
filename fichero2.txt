@@ -3,3 +3,4 @@ Este es un nuevo fichero: el fichero2
 Nueva línea en fichero2
 
 paaaco paco paco
+paquito paco
