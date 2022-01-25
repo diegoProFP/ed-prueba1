@@ -3,6 +3,8 @@ Este es un nuevo fichero: el fichero2
 Nueva línea en fichero2
 
 paaaco paco paco
-paquito paco
+paquito paco Aquí adios-mundo modifica
 
-mas pacos +1  Este es otro cambio que da conflicto
+mas pacos +1  Este es otro cambio que da conflicto 
+
+
