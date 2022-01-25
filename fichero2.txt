@@ -5,4 +5,4 @@ Nueva línea en fichero2
 paaaco paco paco
 paquito paco
 
-mas pacos
+mas pacos +1
