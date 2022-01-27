@@ -1,10 +1,10 @@
 Este es un nuevo fichero: el fichero2
 
-Nueva línea en fichero2
+Nueva lÃ­nea en fichero2
 
 paaaco paco paco
-paquito  MANOLO �comorl? Aqu� adios-mundo modifica
+paquito  MANOLO ¿comorl? Aquí adios-mundo modifica
 
 mas pacos +1  Este es otro cambio que da conflicto 
-
+cambio desde arriba
 
