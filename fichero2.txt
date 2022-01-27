@@ -3,8 +3,8 @@ Este es un nuevo fichero: el fichero2
 Nueva lÃ­nea en fichero2
 
 paaaco paco paco
-paquito  MANOLO ¿comorl? Aquí adios-mundo modifica
+paquito  MANOLO ï¿½comorl? Aquï¿½ adios-mundo modifica
 
 mas pacos +1  Este es otro cambio que da conflicto 
 
-
+cambio de conflicto
